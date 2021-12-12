@@ -1,1 +1,4 @@
-console.log("Hello World");
+function showMessage() {
+  alert("JavaScript is awesome");
+}
+showMessage();
